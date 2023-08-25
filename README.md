@@ -1,2 +1,2 @@
 # Logs
-Minecraft logs for issue reporting
+Minecraft logs for issues
